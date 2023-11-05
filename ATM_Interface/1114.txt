@@ -1,0 +1,14 @@
+Account Created
+Account Number: 1114
+USER ID- r: aman44
+Account Holder Name: aman
+PIN: 9874
+Balance: 30000.0
+Date: Sun Nov 05 17:49:34 GMT 2023
+
+
+Transferred: 10000.0
+Date: Sun Nov 05 17:53:13 GMT 2023
+Account Number: 1114
+Remaining Balance: 20000.0
+

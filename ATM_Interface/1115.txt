@@ -1,0 +1,9 @@
+Account Created
+Account Number: 1115
+USER ID- r: roh55
+Account Holder Name: rohan
+PIN: 6543
+Balance: 20000.0
+Date: Sun Nov 05 17:50:00 GMT 2023
+
+

@@ -1,0 +1,9 @@
+Account Created
+Account Number: 1113
+USER ID- r: rj3
+Account Holder Name: raj
+PIN: 4567
+Balance: 10000.0
+Date: Sun Nov 05 17:49:13 GMT 2023
+
+

@@ -1,0 +1,14 @@
+Account Created
+Account Number: 1112
+USER ID- r: sid2
+Account Holder Name: siddharth
+PIN: 1234
+Balance: 20000.0
+Date: Sun Nov 05 17:48:50 GMT 2023
+
+
+Date: Sun Nov 05 17:51:34 GMT 2023
+Withdrawal: 5000.0
+Account Number: 1112
+Remaining Balance: 15000.0
+

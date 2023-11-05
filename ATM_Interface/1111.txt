@@ -1,0 +1,14 @@
+Account Created
+Account Number: 1111
+USER ID- r: abh1
+Account Holder Name: abhishek
+PIN: 2468
+Balance: 10000.0
+Date: Sun Nov 05 17:48:24 GMT 2023
+
+
+Deposit: 10000.0
+Date: Sun Nov 05 17:53:13 GMT 2023
+Account Number: 1111
+Remaining Balance: 20000.0
+
